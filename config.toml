@@ -2,3 +2,4 @@ baseURL = "https://sdmgeek.github.io/brevifolia/"
 languageCode = "en-us"
 theme = "tale-theme"
 title = "Brevifolia"
+canonifyURLs = true
